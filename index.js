@@ -41,7 +41,7 @@ while (vidas > 0) {
         alert(`¡Felicidades ${nombre2}! Adivinaste el número que ${nombre1} eligió. ¡Ganaste!`);
         break; 
     } else {
-        vidas--; // Restamos una vida
+        vidas--;
         if (vidas > 0) {
             alert(`Fallaste. Te quedan ${vidas} vidas.`);
         } else {
