@@ -38,14 +38,25 @@ cd nombre-del-repositorio
 
 ¡Listo para jugar!: Sigue las instrucciones que aparecen en pantalla. ¡Diviértete adivinando el número mágico!
 
-🤝 Contribuir
-¡Las contribuciones son bienvenidas! Si deseas mejorar este juego, sigue estos pasos:
+## Contribuciones
 
-Haz un fork del proyecto.
-Crea una nueva rama (git checkout -b mejora-juego).
-Realiza tus cambios y haz un commit (git commit -m 'Mejoras al juego de adivinanza').
-Sube tus cambios a tu fork (git push origin mejora-juego).
-Abre un Pull Request y explica los cambios que has realizado.
+¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor sigue los pasos a continuación:
+
+1. Haz un fork del proyecto.
+2. Crea una nueva rama (`git checkout -b feature-nueva-caracteristica`).
+3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva característica'`).
+4. Haz un push a la rama (`git push origin feature-nueva-caracteristica`).
+5. Abre un Pull Request.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+
+## Contacto
+
+- **Nombre**: Macarena de Sarasqueta
+- **Correo Electrónico**: macu.desarasqueta@gmail.com
+- **GitHub**: [https://github.com/macudesarasqueta](https://github.com/macudesarasqueta)
 
 📜 Licencia
 Este proyecto está bajo la licencia MIT. Puedes consultar más detalles en el archivo LICENSE.
